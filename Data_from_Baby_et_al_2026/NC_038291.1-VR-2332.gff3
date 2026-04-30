@@ -1,0 +1,26 @@
+##gff-version 3
+##sequence-region NC_038291.1-VR-2332 1 15411
+NC_038291.1-VR-2332	.	5' UTR	1	189	.	+	.	Name=5'UTR
+NC_038291.1-VR-2332	.	CDS	190	7701	.	+	0	Name=ORF1a;gene=ORF1a;product=ORF1a polyprotein
+NC_038291.1-VR-2332	.	Mature peptide	190	1335	.	+	.	Name=nsp1;product=nsp1
+NC_038291.1-VR-2332	.	Mature peptide	1336	4923	.	+	.	Name=nsp2;product=nsp2
+NC_038291.1-VR-2332	.	Mature peptide	4924	5616	.	+	.	Name=nsp3;product=nsp3
+NC_038291.1-VR-2332	.	Mature peptide	5617	6228	.	+	.	Name=nsp4;product=nsp4
+NC_038291.1-VR-2332	.	Mature peptide	6229	6738	.	+	.	Name=nsp5;product=nsp5
+NC_038291.1-VR-2332	.	Mature peptide	6739	6786	.	+	.	Name=nsp6;product=nsp6
+NC_038291.1-VR-2332	.	Mature peptide	6787	7563	.	+	.	Name=nsp7;product=nsp7
+NC_038291.1-VR-2332	.	Mature peptide	7564	7698	.	+	.	Name=nsp8;product=nsp8
+NC_038291.1-VR-2332	.	Mature peptide	7564	9617	.	+	.	Name=nsp9 RdRp;product=nsp9 RdRp
+NC_038291.1-VR-2332	.	CDS	7698	12071	.	+	0	Name=ORF1b;locus_tag=ORF1b
+NC_038291.1-VR-2332	.	Regulatory	7685	7763	.	+	.	Name=ribosomal frameshift region;regulatory_class=ribosome_binding_site;locus_tag=ribosomal frameshift region
+NC_038291.1-VR-2332	.	Mature peptide	9618	10940	.	+	.	Name=nsp10;locus_tag=nsp10
+NC_038291.1-VR-2332	.	Mature peptide	10941	11609	.	+	.	Name=nsp11;locus_tag=nsp11
+NC_038291.1-VR-2332	.	Mature peptide	11610	12068	.	+	.	Name=nsp12;locus_tag=nsp12
+NC_038291.1-VR-2332	.	CDS	12073	12843	.	+	0	Name=ORF2;locus_tag=ORF2
+NC_038291.1-VR-2332	.	CDS	12696	13460	.	+	0	Name=ORF3;locus_tag=ORF3
+NC_038291.1-VR-2332	.	CDS	13241	13777	.	+	0	Name=ORF4;locus_tag=ORF4
+NC_038291.1-VR-2332	.	CDS	13788	14390	.	+	0	Name=ORF5;locus_tag=ORF5
+NC_038291.1-VR-2332	.	CDS	14375	14899	.	+	0	Name=ORF6;locus_tag=ORF6
+NC_038291.1-VR-2332	.	CDS	14889	15260	.	+	0	Name=ORF7;locus_tag=ORF7
+NC_038291.1-VR-2332	.	3' UTR	15261	15411	.	+	.	name=3'UTR
+NC_038291.1-VR-2332	.	polyA_site	15409	15409	.	+	.	name=polyA_site
