@@ -1,0 +1,25 @@
+##gff-version 3.2.1
+##sequence-region ULTIMATE-PRRSV-consensus 1 15356
+NC_038291.1-VR-2332	.	5' UTR	1	189	.	+	.	Name=5'UTR;locus_tag=5'UTR
+NC_038291.1-VR-2332	.	CDS	190	7647	.	+	0	Name=ORF1a;locus_tag=ORF1a
+NC_038291.1-VR-2332	.	Mature peptide	190	1335	.	+	.	Name=nsp1 with PCP1a and PCP1b at C terminal;locus_tag=nsp1 with PCP1a and PCP1b at C terminal
+NC_038291.1-VR-2332	.	Mature peptide	1336	4869	.	+	.	Name=nsp2 with CP2 domain at C terminal;locus_tag=nsp2 with CP2 domain at C terminal
+NC_038291.1-VR-2332	.	Mature peptide	4870	5562	.	+	.	Name=nsp3;locus_tag=nsp3
+NC_038291.1-VR-2332	.	Mature peptide	5563	6174	.	+	.	Name=nsp4;locus_tag=nsp4
+NC_038291.1-VR-2332	.	Mature peptide	6175	6684	.	+	.	Name=nsp5;locus_tag=nsp5
+NC_038291.1-VR-2332	.	Mature peptide	6685	6732	.	+	.	Name=nsp6;locus_tag=nsp6
+NC_038291.1-VR-2332	.	Mature peptide	6733	7509	.	+	.	Name=nsp7;locus_tag=nsp7
+NC_038291.1-VR-2332	.	Mature peptide	7510	9563	.	+	.	Name=nsp9 RdRp;locus_tag=nsp9 RdRp
+NC_038291.1-VR-2332	.	Mature peptide	7510	7644	.	+	.	Name=nsp8;locus_tag=nsp8
+NC_038291.1-VR-2332	.	CDS	7635	12017	.	+	0	Name=ORF1b;locus_tag=ORF1b
+NC_038291.1-VR-2332	.	Regulatory	7635	7706	.	+	.	Name=ribosomal frameshift region;regulatory_class=ribosome_binding_site;locus_tag=ribosomal frameshift region
+NC_038291.1-VR-2332	.	Mature peptide	9564	10886	.	+	.	Name=nsp10;locus_tag=nsp10
+NC_038291.1-VR-2332	.	Mature peptide	10887	11555	.	+	.	Name=nsp11;locus_tag=nsp11
+NC_038291.1-VR-2332	.	Mature peptide	11556	12014	.	+	.	Name=nsp12;locus_tag=nsp12
+NC_038291.1-VR-2332	.	CDS	12019	12789	.	+	0	Name=ORF2;locus_tag=ORF2
+NC_038291.1-VR-2332	.	CDS	12642	13406	.	+	0	Name=ORF3;locus_tag=ORF3
+NC_038291.1-VR-2332	.	CDS	13187	13723	.	+	0	Name=ORF4;locus_tag=ORF4
+NC_038291.1-VR-2332	.	CDS	13734	14336	.	+	0	Name=ORF5;locus_tag=ORF5
+NC_038291.1-VR-2332	.	CDS	14321	14845	.	+	0	Name=ORF6;locus_tag=ORF6
+NC_038291.1-VR-2332	.	CDS	14835	15206	.	+	0	Name=ORF7;locus_tag=ORF7
+NC_038291.1-VR-2332	.	3' UTR	15207	15356	.	+	.	Name=3'UTR;locus_tag=3'UTR
