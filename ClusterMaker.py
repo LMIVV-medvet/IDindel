@@ -19,7 +19,7 @@ parser.add_argument('-c','--cluster', metavar='csv', help="Optional, csv file to
 
 parser.add_argument('-fs','--figsize', metavar='integer', type=int, default=100, help="Optional, figure size, default:100") 
 parser.add_argument('-dw','--dlwidth', metavar='integer', type=int, default=4, help="Optional, dendrogram line width, default:4") 
-parser.add_argument('-t','--threshold', metavar='integer', type=int, default=0.5, help="Optional, distance threshold for clustering, default:0.5") 
+parser.add_argument('-t','--threshold', metavar='float', type=float, default=0.5, help="Optional, distance threshold for clustering, default:0.5") 
 parser.add_argument('-df','--dfont', metavar='integer', type=int, default=12, help="Optional, dendrogram font size, default:12")
 parser.add_argument('-mf','--mfont', metavar='integer', type=int, default=8, help="Optional, matrix font size, default:8")
 
